@@ -1,5 +1,5 @@
-[[build]]
-  command = "vite build"
+[build]
+  command = "npm run build"
   publish = "dist"
 
 [[redirects]]
